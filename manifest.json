@@ -1,0 +1,17 @@
+{
+  "id": "mystery-gift",
+  "name": "Mystery Gift",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "GAMEPLAY",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "incompatible": [],
+  "experimental": false,
+  "description": "Adds a MYSTERY GIFT row to the START menu with a free daily Pokemon or item."
+}
