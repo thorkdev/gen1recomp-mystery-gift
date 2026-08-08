@@ -4,6 +4,11 @@ Adds a **MYSTERY GIFT** row to the START menu. Once per real-world calendar
 day it offers a free Pokémon or item — which one is deterministic for that
 day and scales with how many badges you're carrying.
 
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/c89594f4-866d-46bf-9960-ec786bb5c71c" />
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/5d3760d3-835b-4240-a3e2-28d9acb92692" />
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/abdba8d2-c664-4ebd-9930-c3fa0573b91f" />
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/af800495-f509-4330-8870-9be52fa9a0c6" />
+
 ## Try it
 
 Enable it (`mystery-gift = true` under `mods` in `options.lua`, or the F10
